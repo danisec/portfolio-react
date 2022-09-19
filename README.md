@@ -4,6 +4,6 @@
 
 I built this portfolio using React JS, Tailwind CSS.
 
-## ScreenShot
+## Screenshot
 
 ![portfolio](https://raw.githubusercontent.com/danisec/assets/main/images/portfolio-react/portfolio-react.png)
